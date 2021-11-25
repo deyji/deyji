@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deyji
 - 👀 I’m interested in Data Science and Analytics projects
-- 🌱 I’m currently learning Cloud based teechnologies (AWS) - Hadoop, Spark
+- 🌱 I’m currently learning Cloud based technologies (AWS) - Hadoop, Spark
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me - email me at adebiyi.soa@gmail.com
 
